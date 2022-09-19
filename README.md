@@ -1,2 +1,2 @@
 # catch_corona
-mask_detection
+mask_detector
